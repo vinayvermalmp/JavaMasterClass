@@ -1,2 +1,4 @@
-package com.vin.basics.oops;public class Basic {
+package com.vin.basics;
+
+public class Basic {
 }

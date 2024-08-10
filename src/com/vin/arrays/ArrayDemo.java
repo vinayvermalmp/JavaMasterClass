@@ -1,2 +1,4 @@
-package com.vin.basics.arrays;public class ArrayDemo {
+package com.vin.arrays;
+
+public class ArrayDemo {
 }
